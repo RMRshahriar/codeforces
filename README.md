@@ -30,4 +30,6 @@ All work of codeforces
 50A.py      - Domino piling
 677A.py     - Vanya and Fence
 977A.py     - Wrong Subtraction
+200B        - Drinks
+136A        - Presents
 
