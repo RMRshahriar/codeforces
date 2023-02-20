@@ -32,4 +32,5 @@ All work of codeforces
 977A.py     - Wrong Subtraction
 200B        - Drinks
 136A        - Presents
+61A         - Ultra-Fast Mathematecian
 
