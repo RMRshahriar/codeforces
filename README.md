@@ -35,3 +35,8 @@ All work of codeforces
 61A         - Ultra-Fast Mathematecian
 705A        - Hulk
 
+
+# rating_900:
+96A         - Football
+160A        - Twins
+318A        - Even Odds
