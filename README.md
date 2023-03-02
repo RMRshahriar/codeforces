@@ -40,3 +40,7 @@ All work of codeforces
 96A         - Football
 160A        - Twins
 318A        - Even Odds
+133A        - HQ9+
+405A        - Gravity Flip
+
+# rating_1000
