@@ -44,3 +44,6 @@ All work of codeforces
 405A        - Gravity Flip
 
 # rating_1000
+1A          - Theatre Square
+118A        - String Task
+69A         - Young Physicist
