@@ -47,3 +47,5 @@ All work of codeforces
 1A          - Theatre Square
 118A        - String Task
 69A         - Young Physicist
+58A         - Chat Room
+122A        - Lucky Division
